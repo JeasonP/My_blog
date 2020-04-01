@@ -6,7 +6,7 @@ email: unicoder@foxmail.com
 description: "不是所有的问题都叫问题！"
 keyword: "电脑,大美,blog,读书,人工智能,网站"
 url: "http://hanyamei.pomtbo.top"          # your host, for absolute URL
-baseurl: "http://hanyamei.pomtbo.top/my_blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
