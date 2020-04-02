@@ -12,7 +12,7 @@ github_repo: "https://github.com/JeasonP/my_blog.git" # you code repository
 # Sidebar settings
 sidebar: true                         # whether or not using Sidebar.
 sidebar-about-description: "文艺要不得，不服咱就掰饬掰饬!"
-sidebar-avatar: {{site.baseurl}}/img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar_m.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
