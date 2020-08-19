@@ -1,10 +1,10 @@
 # Site settings
 title: The new day of freshness!
-SEOTitle: "HYM's question"
+SEOTitle: "my growth"
 header-img: img/post-bg-desk.jpg
 email: unicoder@foxmail.com
 description: "不是所有的问题都叫问题！"
-keyword: "电脑,大美,blog,读书,人工智能,网站"
+keyword: "电脑,blog,读书,人工智能,网站"
 url: "http://hanyamei.pomtbo.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/JeasonP/my_blog.git" # you code repository
